@@ -1,0 +1,1 @@
+This is a simple artwork program that creates similar artwork like the works of Piet Mondrian. To run simply run the Kulow_p2.py file with python3 while having the graphics.py file in the same directory.
